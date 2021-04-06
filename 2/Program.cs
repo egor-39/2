@@ -48,12 +48,12 @@ namespace _2
             //string a = "кот";
             //string b = "ток";
 
-            //if (a==b)
-            //{
+            if (a == b)
+            {
 
-            //    Console.WriteLine(a+" "+b);
-            //}
-            //b = a;
+                Console.WriteLine(a + " " + b);
+            }
+            b = a;
 
             int d = 10;
             int c = 3;
